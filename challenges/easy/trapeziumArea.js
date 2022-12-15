@@ -7,7 +7,7 @@
  */
 
 function trapeziumArea (a, b, h) {
-  const m = a + b
+  m = a + b
   m = m / 2
   return m * h
 }
